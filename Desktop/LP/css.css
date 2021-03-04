@@ -1,0 +1,193 @@
+/* Main header title*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* website */
+body {
+    font color: #d9dcd6;
+}
+/* Menu top bar*/
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+/* h1 header */
+.header h1 div ul {
+    font-size: 48px;
+    list-style-type: none;
+}
+/* seo hightlighted text*/
+.header h1 .seo {
+    color: #d9dcd6;
+    background: none;
+}
+/* Horiseon Header */
+.header div {
+    padding-top: 15px;
+    margin-right: auto;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 2%;
+    left: 25%;
+}
+/* menu bar */
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/* menu links */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* paragraphs */
+p {
+    font-size: 16px;
+}
+/* hero image */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* content image left float */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/* content image right float */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* content copy */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* benefits container */
+.benefits-box {
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+/*benefits title brand */
+.benefit-brand h3 {
+     margin-top: 20px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    text-align: center;
+
+/* benfits title cost */
+.benefit-cost h3 {
+    margin-top: 20px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    text-align: center;
+} 
+/* benefit lead gen img */
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 100px;
+}
+/* benefit brand img */
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 100px;
+}
+/* benefit cost img */
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 100px;
+
+}
+/* benfit icon logos */
+.benefit-icons {
+    display: block;
+    margin: 10px auto;
+    max-width: 100;
+}
+/* SEO container */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Online reputation management container */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Social media marketing container */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* SEO image */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+/* Online reputation image */
+.online-reputation-management img {
+    max-height: 200px;
+}
+/* Social media marketing image */
+.social-media-marketing img {
+    max-height: 200px;
+}
+/* SEO title */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Online reputation title */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Social media marketing title */
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* footer */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/* Designer */
+.footer h2 {
+    font-size: 20px;
+}
